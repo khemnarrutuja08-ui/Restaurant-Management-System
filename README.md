@@ -5,12 +5,6 @@ This application helps users to explore food menus, place orders, and book table
 
 ---
 
-## 🚀 Live Demo
-
-👉 https://your-project-link.vercel.app
-
----
-
 ## 📌 Project Overview
 
 This project is designed to simplify restaurant operations by providing a digital platform for both customers and administrators.
